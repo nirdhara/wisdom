@@ -2,6 +2,18 @@
 
 ## Git
 
+### windows
+
+**Installing Git for Windows (Git Bash)**
+
+Git for Windows is a popular choice because it not only provides Git command-line tools but also includes a Bash emulation environment, which makes it easy to use Git commands in a Unix-like shell.
+
+1. **Download**: Get the installer from [Git for Windows Official Website](https://gitforwindows.org/).
+
+2. **Install**: Run the downloaded installer and follow the setup wizard. Most defaults are fine; you can stick with them. Let the installer finish.
+
+3. **Open Git Bash**: Use it from the Start menu to start using Git commands on Windows.
+
 ### macOS
 
 Git comes pre-installed on MacOS, so you don't need to do anything special to get started with version control.
@@ -24,7 +36,13 @@ Git comes pre-installed on MacOS, so you don't need to do anything special to ge
    corepack enable
    ```
 
-3. After enabling Corepack, you can check the Yarn version by running the following command, and it should be version 3.x:
+3. Update yarn to latest stable version:
+
+    ```bash
+    yarn set version stable
+    ```
+
+4. After enabling Corepack, you can check the Yarn version by running the following command, and it should be version 3.x:
 
    ```bash
    yarn --version

@@ -8,6 +8,8 @@ Before you begin, ensure that you have the following software installed on your 
 2. [Node.js](https://nodejs.org/) (version 18.x)
 3. [Yarn](https://yarnpkg.com/) (version 3.x)
 
+Please check the instructions to install prerequisites [here](https://github.com/nirdhara/wisdom/blob/main/technology/prerequisite.md).
+
 ## Clone the Repository
 
 1. Open your terminal(Command prompt).
