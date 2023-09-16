@@ -14,3 +14,5 @@ Both courses are short and provide example Jupyter notebooks for self-practice.
 1. [1littlecoder](https://www.youtube.com/@1littlecoder)
 
 2. [DataIndependent](https://www.youtube.com/@DataIndependent)
+
+3. [Coding Crashcourses](https://youtu.be/mAYS4d0hrek?si=drBd0PNJU7sup_cG) (LangChain JS)
